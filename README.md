@@ -2,6 +2,8 @@
 
 Arch Linux üzerinde çalışan, ASUS dizüstü bilgisayarlar için geliştirilmiş modüler ve terminal tabanlı bir sistem kontrol ve yönetim aracıdır. Python ile yazılmış olup, temiz ve modüler bir mimariyi benimser.
 
+# Proje Vibe Codelama ile yapildi
+
 ## Özellikler
 
 - **Donanım İzleme (`hardware.py`):** CPU, RAM, GPU ve sistem donanım durumlarını raporlar.
