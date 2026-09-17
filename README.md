@@ -60,3 +60,8 @@ source ~/.zshrc
 ```
 
 Not: global komut haline manuel olarak getirmek istemiyorsaniz otomasyon bash betiğini kullanın
+
+```installer kullanimi
+chmod +x install.sh
+./install.sh
+```
